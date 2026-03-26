@@ -1,4 +1,4 @@
-[202311394-김아영-창업프로젝트(영화추천프로그램),최종발표.pptx](https://github.com/user-attachments/files/26279132/202311394-.-.pptx)# 🎬 영화 추천 시스템 (Movie Recommendation System)
+# 🎬 영화 추천 시스템 (Movie Recommendation System)
 
 ## 📌 프로젝트 개요
 사용자의 선호도(장르, 평점 등)를 기반으로 맞춤형 영화 추천을 제공하는 프로그램입니다.  
